@@ -11,7 +11,7 @@ Projektet ska använda sig huvudsakligen av de två paketen Vue.js, för fronten
 Applikationen ska agera bildarkiv mot ett simpelt backend. Användaren kommer kunna se och uppdatera bilder.
 
 ### Krav
-    - Användarens ska presenteras med samtliga bilder från `urls.txt`
+    - Användaren ska presenteras med samtliga bilder från `urls.txt`
     - Användaren ska ges möjlighet att lägga till beskrivning för enskilda bilder
     - Applikationen bör vara intuitiv samt stilistiskt tilltalande
     - Applikationen måste använda sig av rimligt avdelade Vue-komponenter
