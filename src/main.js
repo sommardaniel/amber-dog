@@ -6,5 +6,8 @@ Vue.use(VueResource)
 
 new Vue({
   el: '#app',
+  data: {
+    photos: []
+  },
   render: h => h(App)
 })
